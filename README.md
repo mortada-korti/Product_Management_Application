@@ -34,11 +34,15 @@ Each product type includes specific attributes:
 ```
 /
 ├── backend/ │
-├── classes/ # PHP OOP classes │
-├── config/ # DB connection │ └── index.php # Entry point
-├── frontend/ │
-├── public/ # React build output │ └── src/ # React components │ └── ...
-├── database/ │ └── schema.sql # MySQL schema └── README.md
+├── classes/ # PHP OOP classes
+│   ├── config/ # DB connection
+│   └── index.php # Entry point
+├── frontend/
+│   ├── public/ # React build output
+│   └── src/ # React components │ └── ...
+├── database/
+│   └── schema.sql # MySQL schema
+└── README.md
 ```
 ## 🛠 Setup Instructions
 
