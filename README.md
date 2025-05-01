@@ -34,15 +34,18 @@ Each product type includes specific attributes:
 ```
 /
 ├── backend/ │
-├── classes/ # PHP OOP classes
-│   ├── config/ # DB connection
-│   └── index.php # Entry point
+    ├── controllers/
+    ├── core/
+    ├── models/
+    ├── vendor/ 
+    └── composer.json
+    └── composer.lock
+    └── index.php 
 ├── frontend/
-│   ├── public/ # React build output
-│   └── src/ # React components
+│   ├── public/ 
+│   └── src/ 
 │   └── ...
-├── database/
-│   └── schema.sql # MySQL schema
+└── scandiweb_db.sql # MySQL schema
 └── README.md
 ```
 ## 🛠 Setup Instructions
