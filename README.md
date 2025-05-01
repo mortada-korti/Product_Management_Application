@@ -39,7 +39,8 @@ Each product type includes specific attributes:
 │   └── index.php # Entry point
 ├── frontend/
 │   ├── public/ # React build output
-│   └── src/ # React components │ └── ...
+│   └── src/ # React components
+│   └── ...
 ├── database/
 │   └── schema.sql # MySQL schema
 └── README.md
