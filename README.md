@@ -1,4 +1,4 @@
-# Scandiweb Junior Developer Test
+# Product Management Application
 
 This is a product management web application developed as part of the Scandiweb Junior Developer recruitment process.
 
