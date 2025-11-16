@@ -52,7 +52,7 @@ Each product type includes specific attributes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mortada-korti/ScandiWeb_Junior_Test.git
+   git clone https://github.com/mortada-korti/Product_Management_Application.git
    ```
 2. **Configure the backend**
 
